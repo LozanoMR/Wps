@@ -986,7 +986,7 @@ class WiFiScanner:
             ))
         
         
-        print ('\n\033[1;32m●════════════════════════════════════════════════════════●\033[1;37m')
+        print ('\n\033[1;32m╭─────────────────────────────────────────────────────────╮\033[1;37m')
         print (' ')
 
         network_list_items = list(network_list.items())
@@ -1029,7 +1029,7 @@ class WiFiScanner:
             return self.prompt_network()
         while 1:
             try:
-                print('\n\033[1;32m●════════════════════════════════════════════════════════●\033[1;37m')
+                print('\n\033[1;32m╰─────────────────────────────────────────────────────────╯\033[1;37m')
                 networkNo = input('[\033[1;33m?\033[1;37m] ENTER para buscar): ')
                 if networkNo.lower() in ('r', '0', ''):
                     return self.prompt_network()
