@@ -1,4 +1,4 @@
-## translated into Spanish
+## translated into Spanish 😀
 # Usage
 ```
  wps.py <arguments>
