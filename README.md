@@ -44,16 +44,11 @@ Launch online WPS bruteforce with the specified first half of the PIN:
  sudo python3 wps.py -i wlan0 --pbc
  ```
 ## modifications 
-```
-
-interface 
-
-simplified and more minimalist 
-
-wps pins
-
-adding 46 wps pins to the list including tp-link pins
-```
+### interfaz
+The way to view available networks has been simplified 
+<img src="https://raw.githubusercontent.com/LozanoMR/Wps/refs/heads/main/Screenshot_20241221-220143_Termux.jpg" width="500" />
+### wps pins
+45 new wps pins were added to increase the range of effectiveness you can see the pins added in the following list
 ## list of added pins 
 ```
 WPS-PIN: 66870913
