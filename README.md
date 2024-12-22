@@ -52,7 +52,7 @@ simplified and more minimalist
 
 wps pins
 
-adding 20 wps pins to the list including tp-link pins
+adding 46 wps pins to the list including tp-link pins
 ```
 ## list of added pins 
 ```
